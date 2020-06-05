@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+}
+
+#header {
+    background-color: gold;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px;
+}
+
+#nav {
+    height: 30px;
+    text-align: center;
+}
+
+button {
+    width: 120px;
+    border: 1px solid black;
+    transition: 0.5s;
+    width: 200px;
+    height: 25px;
+}
+
+button:focus {
+    transition: 0.3s;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    transition: 0.3s;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+#content {
+    text-align: center;
+    background-color: ;
+}
+
+p {
+    background-color: silver;
+}
+
+
+/* body {
+    background-color: blanchedalmond;
+}
+
+#header {
+    border: 1px solid black;
+    width: 200px;
+}
+
+#nav {
+    text-align: center;
+    border: 1px solid black;
+    width: 700px;
+    margin: 10px;
+}
+
+button {
+    width: 100px;
+} */
